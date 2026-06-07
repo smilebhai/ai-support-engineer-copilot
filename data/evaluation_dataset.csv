@@ -1,0 +1,26 @@
+issue,expected_category
+Users started receiving 401 errors after rotating API keys.,Authentication
+Users are being prompted to login repeatedly.,Authentication
+API requests are failing with unauthorized errors.,Authentication
+OAuth login flow fails after redirect.,Authentication
+Service account token expired unexpectedly.,Authentication
+Users receive SSL certificate validation errors when connecting to the platform.,SSL
+Certificate chain validation is failing.,SSL
+Browser reports certificate trust issues.,SSL
+TLS handshake fails during connection.,SSL
+Recently renewed certificate is not being accepted.,SSL
+Several pods are being OOMKilled after deployment.,Kubernetes
+Application pods are stuck in CrashLoopBackOff.,Kubernetes
+Containers restart continuously after upgrade.,Kubernetes
+Node memory pressure is affecting workloads.,Kubernetes
+Deployment rollout causes pod failures.,Kubernetes
+Users are unable to connect due to DNS resolution failures.,Connectivity
+Network requests timeout between services.,Connectivity
+Firewall rules appear to block traffic.,Connectivity
+Load balancer health checks are failing.,Connectivity
+Application cannot reach external APIs.,Connectivity
+Users are reporting slow API responses during peak hours.,Performance
+Application latency increased after deployment.,Performance
+CPU utilization remains high under normal load.,Performance
+Database queries take significantly longer than expected.,Performance
+Users experience degraded performance during traffic spikes.,Performance

@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Cursor
+.cursor/
+
+# LangSmith
+.langsmith/
