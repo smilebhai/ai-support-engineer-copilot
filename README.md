@@ -85,5 +85,5 @@ requirements.txt
 
 ## Author
 
-Ashish
+Ashish Shah
 
